@@ -202,3 +202,19 @@ fi
 
 # Run main function
 main "$@"
+
+Key Achievements:
+Successfully took over and led an ongoing database testing project, rapidly understanding requirements and collaborating with developers to deliver on schedule.
+
+Expertly managed the simultaneous testing of multiple projects and features, coordinating with various stakeholders and delivering all work in a timely manner.
+
+Produced detailed and actionable test reports to ensure clarity and quality.
+
+Enhanced team capability by conducting knowledge-sharing sessions on database testing best practices.
+
+Contributed directly to feature development by providing solutions informed by deep database development and testing experience.
+
+Fostered team growth by proactively supporting and mentoring colleagues.
+
+Summary Statement:
+A results-driven professional who ensured the seamless delivery of critical database projects through effective coordination, multi-project management, and detailed reporting, while actively upskilling the team and contributing to product development.
