@@ -1,9 +1,9 @@
 -- =============================================================================
--- FILE: test_postgresql_commands.sql
+-- FILE: PG_DDL_CREATE_DATATYPES.sql - Complete PostgreSQL CREATE Commands
 -- PURPOSE: Demonstrate every SQL command from PostgreSQL 16 documentation
 --          INCLUDING: Complete coverage of ALL PostgreSQL data types
--- AUTHOR: Generated from PostgreSQL 16 docs
--- NOTE: Run in a clean database (e.g., 'test_db') as a superuser.
+-- Reference: https://www.postgresql.org/docs/16/sql-commands.html
+-- AUTHOR: Lalit Choudhary
 -- =============================================================================
 
 -- #############################################################################
